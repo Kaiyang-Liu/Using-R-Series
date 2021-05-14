@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T10:29:09.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="hrioiRDoNwb7Hh2t9zGc" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T10:33:57.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0MLlx_rkEiDDqzbukRfF" version="14.6.11" type="github">
   <diagram id="zIY5MBnULiBrZU2z5_TN" name="Page-1">
-    <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,7 +418,7 @@
             <mxPoint x="31.25" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTT-RdW8czctZ229jj61-4" value="food_id" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#000000;" vertex="1" parent="gtj9oNjg9Hfpf6i6Bz86-110">
+        <mxCell id="LTT-RdW8czctZ229jj61-4" value="food_id" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gtj9oNjg9Hfpf6i6Bz86-110">
           <mxGeometry x="20" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gtj9oNjg9Hfpf6i6Bz86-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="gtj9oNjg9Hfpf6i6Bz86-111" target="gtj9oNjg9Hfpf6i6Bz86-16" edge="1">
@@ -448,10 +448,10 @@
             <mxPoint x="575.5" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTT-RdW8czctZ229jj61-3" value="food_id" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="LTT-RdW8czctZ229jj61-3" value="food_id" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="379.5" y="445" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LTT-RdW8czctZ229jj61-9" value="rating" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="LTT-RdW8czctZ229jj61-9" value="rating" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1141.75" y="455" width="83.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTT-RdW8czctZ229jj61-10" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtj9oNjg9Hfpf6i6Bz86-4" target="LTT-RdW8czctZ229jj61-9">
@@ -460,7 +460,7 @@
             <mxPoint x="885" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTT-RdW8czctZ229jj61-12" value="order_id" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="LTT-RdW8czctZ229jj61-12" value="order_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1141.75" y="515" width="83.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTT-RdW8czctZ229jj61-13" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gtj9oNjg9Hfpf6i6Bz86-4" target="LTT-RdW8czctZ229jj61-12">
